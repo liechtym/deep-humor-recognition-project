@@ -10,4 +10,4 @@ The write up for this project and its results can be viewed [here](project_paper
 
 The code written to generate the results for this project (besides some of the data pre-processing code) is available in the Jupyter Notebook [project_code.ipynb](project_code.ipynb).
 
-In this project we use a wide variety of neural network approaches to learning humor from Yelp data. Approaches include feedforward neural networks, bidirectional LSTMS, bidirectional GRUs, and convolutional neural networks (CNNs).
+In this project we used a wide variety of neural network approaches to learning humor from Yelp data. Approaches include feedforward neural networks, bidirectional LSTMS, bidirectional GRUs, and convolutional neural networks (CNNs).
