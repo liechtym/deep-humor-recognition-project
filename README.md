@@ -1,2 +1,5 @@
-# deep-humor-recognition-project
-Final project for deep learning in NLP university course.
+# Deep Humor Recognition Project
+
+*Posted with permission from instructor.*
+
+**Authors/Creators:** Matthew Liechty and N. Lee
