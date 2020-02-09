@@ -8,4 +8,4 @@ Based on the paper [Humor Detection in Yelp reviews](https://cs224d.stanford.edu
 
 The write up for this project and its results can be viewed [here](project_paper.pdf).
 
-I am currently trying to obtain a copy of the code for this project. I will push it when I do.
+The code written to generate the results for this project (besides some of the data pre-processing code) is available in the Jupyter Notebook [project_code.ipynb](project_code.ipynb).
